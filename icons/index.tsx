@@ -1,0 +1,12 @@
+export { default as BellIcon } from './BellIcon';
+export { default as BillingIcon } from './BillingIcon';
+export { default as BuildingIcon } from './BuildingIcon';
+export { default as DashboardIcon } from './DashboardIcon';
+export { default as DoubleArrowIcon } from './DoubleArrowIcon'
+export { default as LockIcon } from './LockIcon';
+export { default as SecurityIcon } from './SecurityIcon';
+export { default as SettingsIcon } from './SettingsIcon';
+export { default as TitleIcon } from './TitleIcon';
+export { default as TransactionIcon } from './TransactionIcons';
+export { default as UpDownArrowIcon } from './UpDownArrowIcon';
+export { default as UserIcon } from './UserIcon';
